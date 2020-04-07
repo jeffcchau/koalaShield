@@ -15,3 +15,8 @@ Run local Hugo server
 
 Make changes and view at local server
 `localhost:1313`
+
+Build with Hugo to the `public/` directory
+`hugo`
+
+
